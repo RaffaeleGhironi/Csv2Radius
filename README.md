@@ -5,9 +5,9 @@ Ideale per caricare un gran numero di utenti senza perdere tempo.
 
 Testato con grandi numeri di utenti sia su Mikrotik locali che tramite connessioni remote.
 
+- Scompatta il file zip e salvalo sulla cartella dove hai il file csv
+
 - Il programma va lanciato da terminale ...
-
-
 ![c2r_1](https://github.com/user-attachments/assets/b86f41f3-55d0-4d07-bb86-c8915442eca3)
 
 - Vanno inseriti i parametri di connessione alla Mikrotik ed il nome del file senza l'estensione
