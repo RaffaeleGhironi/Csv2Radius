@@ -1,5 +1,5 @@
 # Csv2Radius
-Programma in grado di caricare su di un db radius Mikrotik degli utenti presi da un file csv.
+Programma in grado di caricare su di un DB Radius Mikrotik degli utenti presi da un file csv.
 
 Ideale per caricare un gran numero di utenti senza perdere tempo.
 
