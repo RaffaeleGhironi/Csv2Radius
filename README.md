@@ -4,6 +4,7 @@ Programma in grado di caricare su di un DB Radius Mikrotik degli utenti presi da
 Ideale per caricare un gran numero di utenti senza perdere tempo.
 
 Testato con grandi numeri di utenti sia su Mikrotik locali che tramite connessioni remote.
+Assicurarsi che le API siano abilitate sulla mikrotik
 
 - Scompatta il file zip e salvalo sulla cartella dove hai il file csv
 
